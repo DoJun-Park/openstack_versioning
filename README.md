@@ -1,5 +1,6 @@
 # openstack_versioning
 
+<br>
 
 
 ## 개발 환경 및 도구  
@@ -19,6 +20,10 @@
 + 개발 도구 : Python(3.8.3), Django(2.1), Openstack API
 
 + 협업 도구 : Github
+
+<br>
+<br>
+
 
 
 
@@ -112,7 +117,8 @@ forms.py에서는 Language(코딩 언어)의 종류를 저장하는 form을 정�
 
 
 
-
+<br>
+<br>
 
 ## 버전관리 시스템 적용 개발 동작 - 시퀀스 다이어그램
 
@@ -127,6 +133,7 @@ forms.py에서는 Language(코딩 언어)의 종류를 저장하는 form을 정�
 5. 사용자에게 입력한 리소스 정보를 바탕으로 코딩 교육 환경 생성
 
 
+<br>
 <br>
 
 ## 실제 동작
@@ -151,6 +158,8 @@ forms.py에서는 Language(코딩 언어)의 종류를 저장하는 form을 정�
 ![스크린샷 2021-05-06 오전 10 44 54](https://user-images.githubusercontent.com/48307561/117230456-181f6d80-ae58-11eb-8f2a-39d28eea2759.png)
 
 
+<br>
+
 
 ### Major 버전 갱신 (프로그래밍 언어 비교)
 
@@ -174,6 +183,8 @@ forms.py에서는 Language(코딩 언어)의 종류를 저장하는 form을 정�
 #### Major 버전이 갱신된 index 파일
 ![스크린샷 2021-05-06 오전 10 48 01](https://user-images.githubusercontent.com/48307561/117230664-86fcc680-ae58-11eb-974a-ec1d4bac2746.png)
 
+<br>
+
 
 ### Minor 버전 갱신 (리소스 정보 비교)
 
@@ -190,8 +201,12 @@ forms.py에서는 Language(코딩 언어)의 종류를 저장하는 form을 정�
 #### Minor 버전이 갱신된 index 파일
 ![스크린샷 2021-05-06 오전 10 50 25](https://user-images.githubusercontent.com/48307561/117230832-dd6a0500-ae58-11eb-8e7e-341bc05faf37.png)
 
+<br>
+
 ### 각 버전의 리소스 정보를 포함하고 있는 인덱스 파일
 ![스크린샷 2021-05-06 오전 10 51 24](https://user-images.githubusercontent.com/48307561/117230885-01c5e180-ae59-11eb-8d31-fb1cea012eca.png)
+
+<br>
 
 
 ### 템플릿 파일과 인텍스 파일이 저장된 오브젝트 스토리지
